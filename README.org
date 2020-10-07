@@ -1,0 +1,10 @@
+#+TITLE: RepeatExplorer and related tools Galaxy definition
+Implemented using singularity container
+* TODO RepeatExplorer and TAREAN
+- include pipelines defined in [[https://bitbucket.org/petrnovak/repex_tarean]] 
+
+* TODO RE utilities
+- helper programs from [[https://bitbucket.org/repeatexplorer/re_utilities/]]
+
+* TODO DANTE
+- TE protein domain annotation https://github.com/kavonrtep/dante
